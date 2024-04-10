@@ -1,0 +1,57 @@
+<mxfile host="app.diagrams.net" modified="2024-04-10T12:50:06.747Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="mOVHjJBDf8x4yEAi_qkb" version="24.2.2" type="google">
+  <diagram id="82Bv_an0BcCFFcfTx1LI" name="Page-1">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1UVUJz1tgPFwWoQQSwY7-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Key&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fontSize=16;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1130" y="-3250" width="960" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="uQhTwKQ1Wc8KsDFdc3kF-5" value="AWS DynamoDb" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/Database_copy_DynamoDB-128.png;fontSize=16;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-924" y="-3114" width="88" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="6W5KEkvIM8lsd_FhmGDw-1" value="AWS Lambda" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#F78E04;gradientDirection=north;fillColor=#D05C17;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=16;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.lambda;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1054" y="-3110" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6W5KEkvIM8lsd_FhmGDw-2" value="AWS SQS" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#FF4F8B;gradientDirection=north;fillColor=#BC1356;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=16;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.sqs;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-599" y="-3090" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="lRtG_jPGdHRARBE0vHJG-4" value="DynamoDb TTL&lt;br&gt;Attribute and period/&lt;br&gt;S3 lifecycle" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/icons-for-a-site-1/64/advantage_speed-128.png;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-761.5" y="-3101.5" width="63" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="QkFYNPYlBHE10zwOgU61-2" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;Delete this note:&lt;/b&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;Add a link to the page containing this diagram&#39;s parent to make it easier for people to navigate through the system" style="shape=note;strokeWidth=2;fontSize=18;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="-3230" width="420" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="QkFYNPYlBHE10zwOgU61-4" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;Delete this note:&lt;/b&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;This is the master key. On your diagram delete any key items that are not used to keep the diagrams simple" style="shape=note;strokeWidth=2;fontSize=18;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-639" y="-2960" width="340" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jANNFpKXWlreTTIoZGf9-1" value="sub system" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=18;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1080" y="-3200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jANNFpKXWlreTTIoZGf9-2" value="connecting diagram" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=18;strokeWidth=2;labelBackgroundColor=none;fillStyle=auto;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="-940" y="-3200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jANNFpKXWlreTTIoZGf9-3" value="&lt;font style=&quot;font-size: 18px;&quot; color=&quot;#000000&quot;&gt;Website&lt;/font&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; color=&quot;#000000&quot;&gt;Vsitor&lt;/font&gt;&lt;/div&gt;" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fontSize=18;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="-3200" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jANNFpKXWlreTTIoZGf9-4" value="Code repo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-790" y="-3200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <UserObject label="Parent" link="https://judewoodprofessional.atlassian.net/wiki/x/JoAY" id="kviyqRIzrLi8lEQBbpCr-2">
+          <mxCell style="image;aspect=fixed;html=1;points=[];align=center;fontSize=20;image=img/lib/azure2/general/Launch_Portal.svg;labelBackgroundColor=none;imageBackground=default;strokeWidth=2;" vertex="1" parent="1">
+            <mxGeometry x="-160" y="-3240" width="68" height="67" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="kviyqRIzrLi8lEQBbpCr-3" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;Delete this note:&lt;/b&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;Diagram flow should go left to right. Inputs on the left and outputs in the right&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=note;strokeWidth=2;fontSize=18;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-1120" y="-2790" width="550" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="kviyqRIzrLi8lEQBbpCr-4" value="Publicly&amp;nbsp;&lt;div&gt;accessible&amp;nbsp;&lt;/div&gt;&lt;div&gt;eg Internet&lt;/div&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/whcompare-isometric-web-hosting-servers/50/connected-globe-128.png;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="-3195" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kviyqRIzrLi8lEQBbpCr-5" value="3rd Party&lt;div&gt;System&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-620" y="-3200" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
