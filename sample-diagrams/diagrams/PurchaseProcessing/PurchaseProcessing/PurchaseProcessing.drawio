@@ -1,0 +1,86 @@
+<mxfile host="app.diagrams.net" modified="2024-04-10T13:09:36.922Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Qsz6pCMrn7-44Sf8mOj4" version="24.2.2" type="google">
+  <diagram name="Page-1" id="7i0HS5fh59K__IMDZCdu">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bnqMVER4PhRWbPe9dfjj-3" value="Key" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=top;fontSize=18;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="40" width="330" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="bnqMVER4PhRWbPe9dfjj-6" value="sub system" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=18;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="29-j7Kuki4oMghEM3cAb-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;flowAnimation=0;strokeWidth=2;fontSize=18;labelBackgroundColor=none;" edge="1" parent="1" source="29-j7Kuki4oMghEM3cAb-2" target="g0uhKEqvXmseJf5cihsP-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Pre-Purchase Checks" link="https://judewoodprofessional.atlassian.net/wiki/x/PgAZ" id="29-j7Kuki4oMghEM3cAb-2">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=18;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="1">
+            <mxGeometry x="222" y="180" width="120" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="29-j7Kuki4oMghEM3cAb-3" value="Notifications" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=18;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690" y="180" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="29-j7Kuki4oMghEM3cAb-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=0;strokeWidth=2;fontSize=18;labelBackgroundColor=none;" edge="1" parent="1" source="29-j7Kuki4oMghEM3cAb-5" target="29-j7Kuki4oMghEM3cAb-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="29-j7Kuki4oMghEM3cAb-5" value="Purchase Request Handling&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=18;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="19" y="180" width="120" height="70" as="geometry" />
+        </mxCell>
+        <UserObject label="Parent" link="https://judewoodprofessional.atlassian.net/wiki/x/AYAY" id="g0uhKEqvXmseJf5cihsP-1">
+          <mxCell style="image;aspect=fixed;html=1;points=[];align=center;fontSize=18;image=img/lib/azure2/general/Launch_Portal.svg;labelBackgroundColor=none;imageBackground=default;strokeWidth=2;" vertex="1" parent="1">
+            <mxGeometry x="350" y="30" width="68" height="67" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="g0uhKEqvXmseJf5cihsP-3" value="Notify&amp;nbsp;&lt;div&gt;Buyer&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;and Seller&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;labelBackgroundColor=none;fontSize=18;align=left;" edge="1" parent="1" source="g0uhKEqvXmseJf5cihsP-2" target="29-j7Kuki4oMghEM3cAb-3">
+          <mxGeometry x="-0.5278" y="35" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g0uhKEqvXmseJf5cihsP-2" value="Item Status Update" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=18;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="426" y="180" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="g0uhKEqvXmseJf5cihsP-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;labelBackgroundColor=none;fontSize=18;" edge="1" parent="1" source="g0uhKEqvXmseJf5cihsP-4" target="29-j7Kuki4oMghEM3cAb-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="User Interface" link="https://judewoodprofessional.atlassian.net/wiki/x/CQAW" id="g0uhKEqvXmseJf5cihsP-4">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=18;strokeWidth=2;labelBackgroundColor=none;fillStyle=auto;opacity=50;" vertex="1" parent="1">
+            <mxGeometry x="-170" y="180" width="120" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="g0uhKEqvXmseJf5cihsP-7" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;Data &amp;amp;&lt;/div&gt;Reporting" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=18;strokeWidth=2;labelBackgroundColor=none;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="629" y="350" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="g0uhKEqvXmseJf5cihsP-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.017;entryY=0.369;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;exitX=1;exitY=0.75;exitDx=0;exitDy=0;labelBackgroundColor=none;fontSize=18;align=left;" edge="1" parent="1" source="g0uhKEqvXmseJf5cihsP-2" target="g0uhKEqvXmseJf5cihsP-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="233" />
+              <mxPoint x="570" y="376" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g0uhKEqvXmseJf5cihsP-11" value="New&amp;nbsp;&lt;div&gt;Status&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontSize=18;" connectable="0" vertex="1" parent="g0uhKEqvXmseJf5cihsP-9">
+          <mxGeometry x="-0.147" relative="1" as="geometry">
+            <mxPoint y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g0uhKEqvXmseJf5cihsP-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.011;entryY=0.679;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;exitX=1;exitY=0.75;exitDx=0;exitDy=0;labelBackgroundColor=none;fontSize=18;" edge="1" parent="1" source="29-j7Kuki4oMghEM3cAb-2" target="g0uhKEqvXmseJf5cihsP-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="233" />
+              <mxPoint x="390" y="398" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g0uhKEqvXmseJf5cihsP-12" value="&lt;div&gt;Result of&amp;nbsp;&lt;/div&gt;&lt;div&gt;check&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontSize=18;" connectable="0" vertex="1" parent="g0uhKEqvXmseJf5cihsP-10">
+          <mxGeometry x="-0.4256" y="-4" relative="1" as="geometry">
+            <mxPoint x="4" y="-22" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g0uhKEqvXmseJf5cihsP-14" value="connecting diagram" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=18;strokeWidth=2;labelBackgroundColor=none;fillStyle=auto;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="9" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
